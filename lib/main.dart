@@ -26,9 +26,7 @@ class _SplashscreenState extends State<Splashscreen> {
       children: <Widget>[
      //this is actually the parent widget which contain our image and also the opacity propertie
         Opacity(
-          opacity:0.9 ,   //your glassy effect depend on this value if u increase decrease this then 
-          //glassy effect will happen with your image or any asset
-          //but remember bro the opacity must be between 0 and 1 in open interval (0,1)
+          opacity:0.9 ,  
           child: Container(
             height: 650.0,
             width: 410,
