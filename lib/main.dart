@@ -30,8 +30,8 @@ class _SplashscreenState extends State<Splashscreen> {
           //glassy effect will happen with your image or any asset
           //but remember bro the opacity must be between 0 and 1 in open interval (0,1)
           child: Container(
-            height: 640.0,
-            width: 400,
+            height: 650.0,
+            width: 410,
             decoration: BoxDecoration(
               image: DecorationImage(
                   fit: BoxFit.fitHeight,
