@@ -51,7 +51,7 @@ class _SplashscreenState extends State<Splashscreen> {
                 style: leotheme,
               ),
               SizedBox(
-                height: 20.0,
+                height: 20.0,//height for some space
               ),
       //similarly we have a loading indicator
               CircularProgressIndicator(),
