@@ -1,6 +1,6 @@
 # polyglot_nibba
 
-A new Flutter project.
+A new Flutter project to demonstrate the use of Modal Route as well as Navigator.push
 
 ## Getting Started
 
